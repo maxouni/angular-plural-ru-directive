@@ -1,6 +1,6 @@
 # angular-plural-ru-directive
 
-Directive for angular 8 for numeral ending dependent of value
+Directive for Angular for numeral ending dependent of value (Russian language)
 
 Директива для Angular, решающая задачу подстановки в русском языке склонения слов, зависящих от переменной количества.
 
